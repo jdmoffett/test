@@ -16,6 +16,7 @@
 		<p><strong>Your Date Of Birth:</strong> <?php echo date("m/d/Y", $user['dob']); // Is there a better way to display? ?></p>
 	
 		<!-- Github Commit testing -->
+		<!-- Git testing 2 -->
 	</div>
 </body>
 </html>
