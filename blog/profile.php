@@ -14,6 +14,8 @@
 		<p><strong>Your Email:</strong> <?php echo $user['email']; // Is there a better way to display? ?></p>
 		<p><strong>Your Bio:</strong> <br/><?php echo $user['bio']; // Is there a better way to display? ?></p>
 		<p><strong>Your Date Of Birth:</strong> <?php echo date("m/d/Y", $user['dob']); // Is there a better way to display? ?></p>
+	
+		<!-- Github Commit testing -->
 	</div>
 </body>
 </html>
